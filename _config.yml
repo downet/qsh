@@ -23,9 +23,12 @@ dash:
     - url: https://donate.qsh.io
       icon: btc
       color: yellow
+    - url: https://discord.com/invite/HWG9Erm
+      icon: discord
+      color: purple
     - url: https://github.com/downet
       icon: github-square
-      color: purple
+      color: green
 
   show_author: true
 
