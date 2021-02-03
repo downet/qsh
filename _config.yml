@@ -26,6 +26,9 @@ dash:
     - url: https://discord.com/invite/HWG9Erm
       icon: discord
       color: purple
+    - url: https://keybase.io/downet
+      icon: keybase
+      color: purple
     - url: https://github.com/downet
       icon: github-square
       color: green

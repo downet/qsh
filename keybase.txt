@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/downet
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.qsh.io
+  * I am downet (https://keybase.io/downet) on keybase.
+  * I have a public key ASCaNhBpkL4bAs9MiKScn54sTacwO2fupxElfmfp9q_2oAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209822420756ef71648c991c46df69a44dcdb8663d09bc1a1d3d0b5cb6b59419dc0a",
+      "host": "keybase.io",
+      "kid": "01209a36106990be1b02cf4c88a49c9f9e2c4da7303b67eea711257e67e9f6aff6a00a",
+      "uid": "3e33c687d254abf07e8a09048756cd19",
+      "username": "downet"
+    },
+    "merkle_root": {
+      "ctime": 1612310419,
+      "hash": "1ae7c3bab32d69a037c028628309cf39e0b77213dabeca58fec7612ffa2b95d6084e24230bc25c74d123939a238cce86b50603731601b40f46d27e0e5486d6b8",
+      "hash_meta": "dafd980c9e2a1766914a6b693e036e711c494c05f52d7d391cefaecc957d0893",
+      "seqno": 18992667
+    },
+    "service": {
+      "entropy": "DJm6A2wBnhfcHYmnIRuVVFPy",
+      "hostname": "blog.qsh.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1612310451,
+  "expire_in": 504576000,
+  "prev": "44fc301739df186581ed88533f79a35d87dddc4992505f967e7c51f1fdcc8a8c",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmjYQaZC+GwLPTIiknJ+eLE2nMDtn7qcRJX5n6fav9qAKp3BheWxvYWTESpcCC8QgRPwwFznfGGWB7YhTP3mjXYfd3EmSUF+WfnxR8f3MiozEIOju9QF6QZ8JU4V+BhY9cc2/vLsrnpNtOSMOlPeCjxzsAgHCo3NpZ8RA4jcUq952poZOC9U0mUdQT6VYM8PcBT4jBEdtqy7IgNgtUyzrdwypSFsvY/5im16eGN02JP/e0jDxp0XJiwL4AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILq/Vw/zFtyBIAli8nFIvhm6z9PwBw6ND7anOVdHYMxVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/downet
+
+==================================================================
